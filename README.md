@@ -1,3 +1,5 @@
 # Git basic command 
 <br>
-authr kundan kartik
+Authr kundan kartik
+<br>
+from Jamshedpur Jharkhand India
