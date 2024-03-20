@@ -1,0 +1,26 @@
+
+for update system - yum update -y
+
+for git install - yum install git -y
+
+for config name - git config --global user.name
+
+for config mail - git config --global user.email
+
+check mail or name - git config --list
+
+for untrak file - git status
+
+for adding - git add .
+
+for commit - git commit -m "msg"
+
+checking commit id - git log 
+
+checking commit code - git show commit id
+
+for adding github - git remote add origin & github repo link
+
+for push - git push -u origin main
+
+
